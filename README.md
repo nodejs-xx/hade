@@ -1,6 +1,7 @@
+
 # hade = html2jade
 
-html to jade
+html to jade   
 
 [![npm version](https://badge.fury.io/js/hade.svg)](http://badge.fury.io/js/hade)
 
@@ -41,3 +42,5 @@ hade
 
 this repo is released under the [MIT
 License](http://www.opensource.org/licenses/MIT).
+
+本地的jade转html和html转jade
